@@ -1,0 +1,318 @@
+@media(max-width:1400px){
+    
+    .img1{
+            display: none;}
+    .sec2{
+            width: 100%;}
+    .section-img{ 
+            flex-wrap: wrap;
+            width: 100%;}    }
+@media(max-width:1500px) {
+    .text{    
+        max-width: 400px;
+        width: 100%;
+        font-size: 50px;
+        flex-wrap: wrap;
+        margin-top: 200px;}
+.text1{
+        max-width:270px;
+        width: 100%;
+        margin-top: 500px;
+        margin-left: 100px;} 
+.text::after{ content: "";
+        width: 2px;
+        height: 300px;
+        margin-left: 200px;
+        margin-top: 100px;}
+.div1{
+        position:absolute;
+        border-radius: 20px;
+        height: 50px;
+        margin-top: 660px;
+        margin-left: 130px; 
+        flex-wrap: wrap; }
+.big{  
+        margin-top: 800px;
+        margin-left:150px ;
+        font-size: 200px;
+        flex-wrap: wrap;}
+.big1{  
+        margin-top: 950px;
+        margin-left:250px ;
+        font-size: 200px;
+        flex-wrap: wrap;} 
+ .big12{
+        max-width: 300px;
+        width: 100%;
+        margin-top: 1140px;
+        margin-left:200px ;
+        font-size: 20px;} 
+.div21{
+        margin-left: 240px;
+        margin-top: 1200px;}
+.div222{
+        max-width: 400px;
+        width: 100%;
+        margin-top: 1200px;
+        margin-left: 500px;
+        font-size: 20px;}
+}           
+@media(max-width:1200px){
+    .text{    
+            max-width: 400px;
+            width: 100%;
+            font-size: 50px;
+            flex-wrap: wrap;
+            margin-top: 200px;}
+    .text1{
+            max-width:270px;
+            width: 100%;
+            margin-top: 500px;
+            margin-left: 100px;} 
+    .text::after{ content: "";
+            width: 2px;
+            height: 300px;
+            margin-left: 200px;
+            margin-top: 100px;}
+    .div1{
+            position:absolute;
+            border-radius: 20px;
+            height: 50px;
+            margin-top: 660px;
+            margin-left: 130px; 
+            flex-wrap: wrap; }
+    .big{  
+            margin-top: 800px;
+            margin-left:150px ;
+            font-size: 200px;
+            flex-wrap: wrap;}
+    .big1{  
+            margin-top: 950px;
+            margin-left:250px ;
+            font-size: 200px;
+            flex-wrap: wrap;}
+     .big12{
+            max-width: 300px;
+            width: 100%;
+            margin-top: 1140px;
+            margin-left:200px ;
+            font-size: 20px;} 
+    .div21{
+            margin-left: 240px;
+            margin-top: 1200px;}
+    .div222{
+            max-width: 400px;
+            width: 100%;
+            margin-top: 1200px;
+            margin-left: 500px;
+            font-size: 20px;}
+    .section2-p{
+            font-size: 80px;
+    }        
+    .div11{
+            margin: 0 auto;
+            align-items: center;
+            justify-content: center;
+            margin-left: 10px;
+            margin-top: 10px;}
+    .burger{
+         margin: 0 auto;
+            display: none;}}
+@media(max-width:1000px){
+        .burger{
+                margin:  0 auto;
+        }
+        .text{    
+                max-width: 200px;
+                width: 100%;
+                font-size: 30px;
+                flex-wrap: wrap;
+                margin-top: 200px;}
+        .text1{
+                max-width:240px;
+                width: 100%;
+                margin-top: 520px;
+                margin-left: 380px;} 
+        .text::after{ content: "";
+                width: 2px;
+                height: 200px;
+                margin-left: 100px;
+                margin-top: 0px;}
+        .div1{
+                position:absolute;
+                border-radius: 20px;
+                height: 30px;
+                margin-top: 360px;
+                margin-left: 50px; 
+                flex-wrap: wrap; }
+        .big{  
+                margin-top: 400px;
+                margin-left:60px ;
+                font-size: 100px;
+                flex-wrap: wrap;}
+        .big1{  
+                margin-top: 530px;
+                margin-left:50px ;
+                font-size: 100px;
+                flex-wrap: wrap;} 
+         .big12{
+                max-width: 300px;
+                width: 100%;
+                margin-top: 100px;
+                margin-left:70px ;
+                font-size: 20px;} 
+        .div21{
+                max-width: 300px;
+                width: 100%;
+                margin-left: 100px;
+                margin-top: 780px;}
+        .div222{
+                max-width: 400px;
+                width: 100%;
+                margin-top: 680px;
+                margin-left: 0px;
+                font-size: 15px;}
+        .section2-p{
+                font-size: 60px;}
+        }
+    .burger{
+            display: block;}}
+    .nav{
+            display: none; }
+
+@media(max-width:800px){
+    .footer-class{font-size: 30px;}
+    .section1{ 
+        flex-wrap: wrap;
+        font-size: 160px;}
+    .sec2{
+         font-size: 50px;
+         flex-wrap: wrap;
+         margin-left: 200px;}
+    .sec1{
+        flex-wrap: wrap;
+        font-size: 40px;
+        margin-left: 100px;}
+    .header{display: none;}
+}
+@media(max-width:700px){
+        .section-img{
+                display: inline-block;}}
+
+@media(max-width:640px){
+        .text{    
+                max-width: 150px;
+                width: 100%;
+                font-size: 15px;
+                flex-wrap: wrap;
+                margin-top: 30px;
+                margin-left: 10px;}
+        .text1{
+                max-width:150px;
+                width: 100%;
+                margin-top: 20px;
+                margin-left: 200px;} 
+        .text::after{ content: "";
+                width: 2px;
+                height: 100px;
+                margin-left: 80px;}
+        .div1{
+                position:absolute;
+                height: 15px;
+                margin-top: 305px;
+                margin-left: 110px; 
+                flex-wrap: wrap; }
+        .big{  
+                margin-top: 300px;
+                margin-left:30px ;
+                font-size: 50px;
+                flex-wrap: wrap;}
+        .big1{  
+                margin-top: 350px;
+                margin-left:50px ;
+                font-size: 50px;
+                flex-wrap: wrap;} 
+         .big12{
+                max-width: 30px;
+                width: 100%;
+                margin-top: 70px; 
+                font-size: 20px;} 
+        .div21{
+                max-width: 200px;
+                width: 100%;
+                margin-left: 100px;
+                margin-top: 400px;}
+        .div222{
+                max-width: 300px;
+                width: 100%;
+                margin-top: 480px;
+                margin-left: 10px;
+                font-size: 15px;}
+        .section2-p{
+                font-size: 50px;}
+        .header{display: none;}
+}
+@media(max-width:500px){
+        .text{    
+                max-width: 150px;
+                width: 100%;
+                font-size: 15px;
+                flex-wrap: wrap;
+                margin-top: 30px;
+                margin-left: 10px;}
+        .text1{
+                max-width:150px;
+                width: 100%;
+                margin-top: 20px;
+                margin-left: 200px;} 
+        .text::after{ content: "";
+                width: 2px;
+                height: 100px;
+                margin-left: 80px;}
+        .div1{
+                position:absolute;
+                height: 15px;
+                margin-top: 305px;
+                margin-left: 110px; 
+                flex-wrap: wrap; }
+        .big{  
+                margin-top: 300px;
+                margin-left:30px ;
+                font-size: 50px;
+                flex-wrap: wrap;}
+        .big1{  
+                margin-top: 350px;
+                margin-left:50px ;
+                font-size: 50px;
+                flex-wrap: wrap;} 
+         .big12{
+                max-width: 30px;
+                width: 100%;
+                margin-top: 70px; 
+                font-size: 20px;} 
+        .div21{
+                max-width: 200px;
+                width: 100%;
+                margin-left: 100px;
+                margin-top: 400px;}
+        .div222{
+                max-width: 300px;
+                width: 100%;
+                margin-top: 480px;
+                margin-left: 10px;
+                font-size: 15px;}
+        .section2-p{
+                font-size: 50px;}
+        .header{display: none;}
+        .burger{ display: block;}
+        .section1{ flex-wrap: wrap;
+        font-size: 100px;}
+        .sec2{
+            font-size: 25px;
+            flex-wrap: wrap;
+            margin-left: 100px;}
+            .sec1{
+            flex-wrap: wrap;
+            font-size: 20px;
+            margin-left: auto;}
+}
